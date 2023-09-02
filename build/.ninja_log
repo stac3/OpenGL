@@ -1,0 +1,12 @@
+# ninja log v5
+0	213	1693602146711977075	CMakeFiles/my_project_project.dir/src/main.cpp.o	5b85c8ff6dc25c29
+1	45	1693602227187976606	my_project_project	475e08bec97d378d
+0	111	1693602684731973935	CMakeFiles/my_project_project.dir/src/glad.c.o	3e3ee8ed252c6eef
+0	157	1693602684779973935	CMakeFiles/my_project_project.dir/src/main.cpp.o	5b85c8ff6dc25c29
+157	202	1693602684823973934	my_project_project	e0c994746df377ca
+0	159	1693602960275972327	CMakeFiles/my_project_project.dir/src/main.cpp.o	5b85c8ff6dc25c29
+159	202	1693602960315972326	my_project_project	e0c994746df377ca
+0	148	1693619076251962667	CMakeFiles/my_project_project.dir/src/main.cpp.o	5b85c8ff6dc25c29
+148	193	1693619076295962667	my_project_project	e0c994746df377ca
+0	143	1693619086247962609	CMakeFiles/my_project_project.dir/src/main.cpp.o	5b85c8ff6dc25c29
+143	187	1693619086291962609	my_project_project	e0c994746df377ca

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/carlos/Desktop/openGL/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/my_project_project.dir/src/main.cpp.o -c /home/carlos/Desktop/openGL/src/main.cpp",
+  "file": "/home/carlos/Desktop/openGL/src/main.cpp"
+},
+{
+  "directory": "/home/carlos/Desktop/openGL/build",
+  "command": "/usr/bin/gcc-12 -g -o CMakeFiles/my_project_project.dir/src/glad.c.o -c /home/carlos/Desktop/openGL/src/glad.c",
+  "file": "/home/carlos/Desktop/openGL/src/glad.c"
+}
+]
