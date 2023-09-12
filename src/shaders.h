@@ -24,7 +24,6 @@ class Shader {
 
 };
 
-#endif //SHADER_H
 
 Shader::Shader(const char *vertexPath, const char *fragmentPath){
     std::string vertexCode;
@@ -50,10 +49,8 @@ Shader::Shader(const char *vertexPath, const char *fragmentPath){
         vertexCode   = vShaderStream.str();
         fragmentCode = fShaderStream.str();
 
-    }
-    catch (std::ifstream::failure& e)
-    {
-        std::cout << "ERROR::SHADER::FILE_NOT_SUCCESSFULLY_READ: " << e.what() << std::endl;
+    }catch(std::ifstream::failure e){
+        std::cout << "ERROR::SHADER::FILE_NOT_SUCCESFULLY_READ" << std::endl;
     }
     const char* vShaderCode = vertexCode.c_str();
     const char* fShaderCode = fragmentCode.c_str();
@@ -122,3 +119,6 @@ void Shader::setFloat(const std::string &name, float value) const
 {
     glUniform1f(glGetUniformLocation(ID, name.c_str()), value);
 }
+
+
+#endif //SHADER_H

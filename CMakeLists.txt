@@ -10,7 +10,9 @@ add_executable(my_project_project
     src/khrplatform.h 
     src/glad.h
     src/glad.c
+    src/shaders.h
 )
+
 
 target_link_libraries(
     my_project_project glfw

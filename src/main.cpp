@@ -42,7 +42,7 @@ int main() {
     
     //shaders 
     
-    Shader ourShader("shaderVs", "shaderFs");
+    Shader ourShader("../src/3.3.shader.vs", "../src/3.3.shader.fs");
     
     //
     float vertices[] = {
