@@ -8,5 +8,10 @@
   "directory": "/home/carlos/Desktop/openGL/build",
   "command": "/usr/bin/gcc-12 -g -o CMakeFiles/my_project_project.dir/src/glad.c.o -c /home/carlos/Desktop/openGL/src/glad.c",
   "file": "/home/carlos/Desktop/openGL/src/glad.c"
+},
+{
+  "directory": "/home/carlos/Desktop/openGL/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/my_project_project.dir/src/image.cpp.o -c /home/carlos/Desktop/openGL/src/image.cpp",
+  "file": "/home/carlos/Desktop/openGL/src/image.cpp"
 }
 ]

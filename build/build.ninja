@@ -61,6 +61,12 @@ build CMakeFiles/my_project_project.dir/src/glad.c.o: C_COMPILER__my_project_pro
   OBJECT_DIR = CMakeFiles/my_project_project.dir
   OBJECT_FILE_DIR = CMakeFiles/my_project_project.dir/src
 
+build CMakeFiles/my_project_project.dir/src/image.cpp.o: CXX_COMPILER__my_project_project_Debug /home/carlos/Desktop/openGL/src/image.cpp || cmake_object_order_depends_target_my_project_project
+  DEP_FILE = CMakeFiles/my_project_project.dir/src/image.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/my_project_project.dir
+  OBJECT_FILE_DIR = CMakeFiles/my_project_project.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target my_project_project
@@ -69,7 +75,7 @@ build CMakeFiles/my_project_project.dir/src/glad.c.o: C_COMPILER__my_project_pro
 #############################################
 # Link the executable my_project_project
 
-build my_project_project: CXX_EXECUTABLE_LINKER__my_project_project_Debug CMakeFiles/my_project_project.dir/src/main.cpp.o CMakeFiles/my_project_project.dir/src/glad.c.o | /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so
+build my_project_project: CXX_EXECUTABLE_LINKER__my_project_project_Debug CMakeFiles/my_project_project.dir/src/main.cpp.o CMakeFiles/my_project_project.dir/src/glad.c.o CMakeFiles/my_project_project.dir/src/image.cpp.o | /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so
   FLAGS = -g
   LINK_FLAGS = -rdynamic
   LINK_LIBRARIES = -lglfw  /usr/lib/x86_64-linux-gnu/libGLX.so  /usr/lib/x86_64-linux-gnu/libOpenGL.so

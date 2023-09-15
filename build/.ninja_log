@@ -1,8 +1,14 @@
 # ninja log v5
-1	255	1694545938015994204	CMakeFiles/my_project_project.dir/src/main.cpp.o	5b85c8ff6dc25c29
-255	317	1694545938075994204	my_project_project	e0c994746df377ca
+0	325	1694736273927840847	CMakeFiles/my_project_project.dir/src/main.cpp.o	5b85c8ff6dc25c29
+325	376	1694736273979840847	my_project_project	e0c994746df377ca
 0	111	1693602684731973935	CMakeFiles/my_project_project.dir/src/glad.c.o	3e3ee8ed252c6eef
-0	255	1694546732379989568	CMakeFiles/my_project_project.dir/src/main.cpp.o	5b85c8ff6dc25c29
-255	306	1694546732431989567	my_project_project	e0c994746df377ca
-0	312	1694546797031989190	CMakeFiles/my_project_project.dir/src/main.cpp.o	5b85c8ff6dc25c29
-312	363	1694546797083989190	my_project_project	e0c994746df377ca
+1	425	1694736343707840440	CMakeFiles/my_project_project.dir/src/image.cpp.o	735aef51e0d3fd71
+425	475	1694736343759840440	my_project_project	888b126eb5c09644
+0	269	1694736770719837948	CMakeFiles/my_project_project.dir/src/main.cpp.o	5b85c8ff6dc25c29
+269	325	1694736770775837947	my_project_project	888b126eb5c09644
+0	375	1694737188639835508	CMakeFiles/my_project_project.dir/src/main.cpp.o	5b85c8ff6dc25c29
+375	452	1694737188715835508	my_project_project	888b126eb5c09644
+0	287	1694738113235830112	CMakeFiles/my_project_project.dir/src/main.cpp.o	5b85c8ff6dc25c29
+287	340	1694738113287830111	my_project_project	888b126eb5c09644
+1	388	1694738174975829751	CMakeFiles/my_project_project.dir/src/main.cpp.o	5b85c8ff6dc25c29
+389	465	1694738175051829751	my_project_project	888b126eb5c09644

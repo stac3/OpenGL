@@ -11,6 +11,8 @@ add_executable(my_project_project
     src/glad.h
     src/glad.c
     src/shaders.h
+    src/stb_image.h
+    src/image.cpp
 )
 
 
